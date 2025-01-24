@@ -1,4 +1,4 @@
-// App.js
+// App.jsx
 import React from 'react';
 import ProductList from './Components/ProductList';
 import ShoppingCart from './Components/ShoppingCart';
